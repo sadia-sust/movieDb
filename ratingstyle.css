@@ -1,0 +1,37 @@
+.searchclass {
+    color: #3b5998;
+    width: 50px; /* width of image */
+    height: 30px; /* height of image */
+    border: 0;
+}
+.st1 {
+    background-color: red;
+    background: url(star.jpg);
+    width: 30px; /* width of image */
+    height: 30px; /* height of image */
+    border: 0;
+}
+.st2 {
+    background: url(star.jpg);
+    width: 30px; /* width of image */
+    height: 30px; /* height of image */
+    border: 0;
+}
+.st3 {
+    background: url(star.jpg);
+    width: 30px; /* width of image */
+    height: 30px; /* height of image */
+    border: 0;
+}
+.st4 {
+    background: url(star.jpg);
+    width: 30px; /* width of image */
+    height: 30px; /* height of image */
+    border: 0;
+}
+.st5 {
+    background: url(star.jpg);
+    width: 30px; /* width of image */
+    height: 30px; /* height of image */
+    border: 0;
+}
